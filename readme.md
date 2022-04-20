@@ -18,7 +18,7 @@
 
 ### 提取公共资源
 
-[html-webpack-externals-plugin](https://www.npmjs .com/package/html-webpack-externals-plugin)
+[html-webpack-externals-plugin](https://www.npmjs.com/package/html-webpack-externals-plugin)
 
 ### 支持动态import进行代码分割
 
